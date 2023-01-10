@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "itextsharpDemo", "itextsharpDemo.csproj", "{5C3558C3-B492-436E-9694-1F7F3531FB36}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C3558C3-B492-436E-9694-1F7F3531FB36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C3558C3-B492-436E-9694-1F7F3531FB36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C3558C3-B492-436E-9694-1F7F3531FB36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C3558C3-B492-436E-9694-1F7F3531FB36}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {34011457-589D-43EA-9CE2-8EE4E999F872}
+	EndGlobalSection
+EndGlobal
